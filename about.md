@@ -37,3 +37,9 @@ Southwest Tech exists to fill that gap.
 ## Get involved
 
 Want to help shape what this becomes? [We'd love to hear from you.](/get-involved/)
+
+## Who is this guy?
+
+Southwest Tech was started by Keiran, a technology professional working in the cloud and AI infrastructure space — and a relatively recent transplant from NSW to the Southwest.
+
+A tech geek by nature, he spends his time working with Linux, cloud, AI, and home automation projects, among plenty of other things. Mostly he's just keen to meet more people in the region who are into the same stuff.
