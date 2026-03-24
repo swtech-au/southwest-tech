@@ -7,8 +7,6 @@ permalink: /events/
 
 Southwest Tech is a new initiative and the first event is very much an experiment — we want to see if there's enough interest and demand to keep this going. The plan is to meet every six weeks, but how often we run events will depend on how things go.
 
-You'll notice we're using [Lu.ma](https://luma.com) to manage RSVPs and attendance. It's simple, it works, and it's free — which suits us fine at this stage.
-
 If you're interested, RSVP and come along. That's the best signal we can get.
 
 ---
