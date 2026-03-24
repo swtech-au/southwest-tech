@@ -1,30 +1,18 @@
 - name: Tech hobbyists & tinkerers
   color: teal
-- name: Developers & coders
-  color: blue
 - name: AI & emerging tech
   color: amber
-- name: Home automation
+- name: Home automation & IoT
   color: coral
-- name: Cloud & DevOps
+- name: Cloud, DevOps & self-hosting
   color: green
-- name: Networking
-  color: pink
-- name: AgTech & IoT
-  color: green
-- name: RF, LoRa & SDR
-  color: teal
 - name: Cybersecurity & privacy
   color: purple
-- name: Robotics & automation
+- name: Electronics, robotics & hardware
   color: blue
-- name: Electronics & hardware hacking
-  color: coral
-- name: Open source
-  color: amber
-- name: Self-hosting & privacy
-  color: pink
-- name: Drones & UAVs
-  color: purple
-- name: Remote work & tools
+- name: RF, LoRa & SDR
   color: teal
+- name: Drones & UAVs
+  color: pink
+- name: Developers & open source
+  color: amber
