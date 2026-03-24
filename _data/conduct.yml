@@ -9,6 +9,9 @@ rules:
   - type: do
     title: Disagree respectfully
     description: Healthy debate is great. Personal attacks are not. Challenge ideas, not people.
+  - type: do
+    title: Drink if you like, but it's not the point
+    description: Our events are often held at venues that serve alcohol. Have a drink if that's your thing — but this is a social and tech meetup, not a drinking club. If alcohol isn't for you, that's completely fine too. Nobody will make it a thing.
   - type: dont
     title: Do not be a dick
     description: Harassment, exclusion, belittling, or making anyone feel unwelcome will not be tolerated. Does not matter who you are or what you know.
