@@ -5,7 +5,7 @@ description: Help build the Southwest Tech community.
 permalink: /get-involved/
 ---
 
-Southwest Tech is community-run and community-shaped. There are a few ways to get involved.
+Southwest Tech is brand new. We're at the very beginning — trying to understand whether there's interest, find the people who'd show up, and build something worth coming back to. This is how you can help.
 
 ## Come to a meetup
 
@@ -17,7 +17,7 @@ Know a good pub, café, or space in Dunsborough, Busselton, or Margaret River th
 
 ## Spread the word
 
-Tell someone who might be interested. Post about it. Help us find the people who didn't know this existed.
+Tell someone who might be interested. The southwest has more tech people than most realise — they're just scattered. Help us find them.
 
 ## Help organise
 
@@ -25,4 +25,10 @@ If you want to be more hands-on — helping with venues, communications, or just
 
 ## Contact
 
-Reach out via [email](mailto:hello@southwesttech.au) or find us on the socials once we're up and running.
+Drop us an email at [southwesttech.au@gmail.com](mailto:southwesttech.au@gmail.com) — whether you want to come along, get more involved, or just say hello.
+
+## A note on socials
+
+We're deliberately keeping things simple for now. No Twitter, no Facebook group, no Discord — we want getting involved to be as low-friction as possible, and we know plenty of people in the tech community would rather not need a social media account just to show up to a meetup.
+
+If socials ever start solving a real coordination problem, we'll add them. For now, email works fine.
