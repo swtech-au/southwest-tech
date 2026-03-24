@@ -16,6 +16,9 @@ rules:
     title: Do not be a dick
     description: Harassment, exclusion, belittling, or making anyone feel unwelcome will not be tolerated. Does not matter who you are or what you know.
   - type: dont
+    title: No selling
+    description: This is a social event, not a sales opportunity. We're not here to sell you anything, and we ask that you extend the same courtesy. Sharing what you work on is great — pitching to the room is not.
+  - type: dont
     title: No gatekeeping
     description: This is not a test. Tech is for everyone — not just people who have been doing it the longest.
   - type: dont
