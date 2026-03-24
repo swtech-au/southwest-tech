@@ -2,7 +2,7 @@
 layout: event
 title: "Southwest Tech #1 — Kick-off"
 date: 2026-05-07
-time: "6:00pm – 8:30pm"
+time: "2:00pm"
 location: TBA, Busselton
 excerpt: The first Southwest Tech meetup. Come along, introduce yourself, and meet the other tech enthusiasts living and working in the southwest.
 rsvp_url: https://luma.com/a5tunjsx
@@ -18,8 +18,8 @@ Whether you've been in the southwest for years or just landed here — you're we
 
 **What to expect**
 
-A relaxed two-hour gathering at a venue in Busselton. Arrive when you like, leave when you like. There'll be a loose theme of introductions — what you do, what you're into, what brought you to the region.
+A relaxed gathering in Busselton. Arrive when you like, leave when you like. There'll be a loose theme of introductions — what you do, what you're into, what brought you to the region.
 
 **Venue**
 
-To be confirmed — RSVP and you'll get the details as soon as it's locked in.
+To be confirmed, and honestly — it'll depend on numbers. Ideally we'll make a booking somewhere suitable, but if it's a smaller group we may just find a spot with enough space and settle in. We're playing this as we go, and suggestions are always welcome — if you know a good place, let us know.
