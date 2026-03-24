@@ -17,7 +17,7 @@ Know a good pub, café, or space in Dunsborough, Busselton, or Margaret River th
 
 ## Spread the word
 
-Tell someone who might be interested. The southwest has more tech people than most realise — they're just scattered. Help us find them.
+Tell someone who might be interested. We suspect the southwest has far more tech people than most realise — they're just scattered and not yet connected. Help us find them.
 
 ## Help organise
 
