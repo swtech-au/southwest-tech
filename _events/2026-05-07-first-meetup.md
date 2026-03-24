@@ -8,9 +8,9 @@ excerpt: The first Southwest Tech meetup. Come along, introduce yourself, and me
 rsvp_url: https://luma.com/a5tunjsx
 ---
 
-There's a surprisingly large number of people in the Dunsborough–Busselton–Margaret River region who are into technology — building things, running home labs, writing code, tinkering with hardware, following where AI is heading, or just genuinely curious about what's next.
+I suspect there are a lot of people in the Dunsborough–Busselton–Margaret River region who are into technology — building things, running home labs, writing code, tinkering with hardware, following where AI is heading, or just genuinely curious about what's next. Technology has never been more accessible or more front-of-mind than it is right now, and the southwest is full of people quietly doing interesting things with it.
 
-Southwest Tech is the place to find them.
+This is our experiment to bring them all together.
 
 This first meetup is simple: show up, say hello, and tell us a bit about what you're working on or interested in. No slides, no agenda, no pressure. Just good conversation with people who get it.
 
