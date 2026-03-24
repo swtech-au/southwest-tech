@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="container event-single">
+  <div class="event-meta-bar">
+    <span class="event-date">{{ page.date | date: "%A %-d %B %Y" }}</span>
+    {% if page.location %}<span class="event-location">{{ page.location }}</span>{% endif %}
+    {% if page.time %}<span class="event-time">{{ page.time }}</span>{% endif %}
+  </div>
+  <h1>{{ page.title }}</h1>
+  <div class="event-body">
+    {{ content }}
+  </div>
+  {% if page.rsvp_url %}
+  <div class="event-rsvp">
+    <a href="{{ page.rsvp_url }}" class="btn btn-primary" target="_blank" rel="noopener">RSVP on Lu.ma →</a>
+    <span class="event-rsvp-note">You'll get venue details and a reminder once confirmed.</span>
+  </div>
+  {% endif %}
+</div>

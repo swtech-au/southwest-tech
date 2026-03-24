@@ -1,0 +1,14 @@
+- name: General tech hobbyists
+  color: teal
+- name: Makers & tinkerers
+  color: purple
+- name: Developers & coders
+  color: blue
+- name: AI & emerging tech
+  color: amber
+- name: Home automation
+  color: coral
+- name: Cloud infrastructure
+  color: green
+- name: Networking
+  color: pink

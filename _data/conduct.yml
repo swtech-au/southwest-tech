@@ -1,0 +1,20 @@
+title: '"No Dicks" policy'
+rules:
+  - type: do
+    title: Be welcoming
+    description: All skill levels, backgrounds, and ages are welcome. Nobody should feel like they do not belong here.
+  - type: do
+    title: Be curious, not condescending
+    description: Ask questions freely. Share knowledge generously. There is no such thing as a dumb question.
+  - type: do
+    title: Disagree respectfully
+    description: Healthy debate is great. Personal attacks are not. Challenge ideas, not people.
+  - type: dont
+    title: Do not be a dick
+    description: Harassment, exclusion, belittling, or making anyone feel unwelcome will not be tolerated. Does not matter who you are or what you know.
+  - type: dont
+    title: No gatekeeping
+    description: This is not a test. Tech is for everyone — not just people who have been doing it the longest.
+  - type: dont
+    title: Cannot align to the rules?
+    description: If your behaviour is not consistent with this code of conduct, we will simply ask you to leave. We want this to be a place everyone feels comfortable in.
