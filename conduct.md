@@ -30,7 +30,3 @@ We call it the **"No Dicks" policy**. It's not a long legal document. It's just 
 
 {% endif %}
 {% endfor %}
-
----
-
-If you ever feel uncomfortable at a Southwest Tech event, please speak to one of the organisers. We take this seriously.
