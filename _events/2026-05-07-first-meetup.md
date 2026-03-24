@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Southwest Tech #1 — Introductions"
+title: "Southwest Tech #1 — Kick-off"
 date: 2026-05-07
 time: "6:00pm – 8:30pm"
 location: TBA, Busselton
