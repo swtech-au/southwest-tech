@@ -10,6 +10,7 @@ author:
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
+future: true
 
 # Plugins (all whitelisted by GitHub Pages)
 plugins:
@@ -24,7 +25,7 @@ plugins:
 collections:
   events:
     output: true
-    permalink: /events/:name/
+    permalink: /events/:title/
 
 # Defaults
 defaults:
