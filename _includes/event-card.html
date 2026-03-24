@@ -4,7 +4,7 @@
     <span class="event-month">{{ include.event.date | date: "%b" }}</span>
   </div>
   <div class="event-card-body">
-    <h3><a href="{{ include.event.url | relative_url }}">{{ include.event.title }}</a></h3>
+    <h3><a href="{{ include.event.rsvp_url | default: include.event.url | relative_url }}"{% if include.event.rsvp_url %} target="_blank" rel="noopener"{% endif %}>{{ include.event.title }}</a></h3>
     {% if include.event.location %}<p class="event-card-location">{{ include.event.location }}</p>{% endif %}
     {% if include.event.excerpt %}<p class="event-card-desc">{{ include.event.excerpt }}</p>{% endif %}
   </div>
