@@ -30,7 +30,13 @@ No professional credentials required. No gatekeeping. Just bring yourself.
 
 We keep it simple. Show up, grab a drink, find someone interesting to talk to. Sometimes people bring a laptop to show something off. Sometimes there's a loose topic floating around. Mostly it's just good conversation.
 
-Sessions run roughly 2–3 hours. Frequency will start at every six weeks and adjust based on interest.
+Sessions will last as long as people are enjoying themselves and want to stick around — we're not watching the clock. That said, we'll work within whatever the venue allows in terms of hours and availability.
+
+Frequency will start at every six weeks and adjust based on interest.
+
+## 18+ only
+
+Southwest Tech events are for people aged 18 and over. We'll be using licensed venues, and at this early stage we're simply not set up to handle the additional responsibilities that come with including minors. That may change down the track, but for now this is where we're starting.
 
 ## Why the southwest?
 
