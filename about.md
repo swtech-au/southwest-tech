@@ -5,9 +5,13 @@ description: A casual tech meetup for the southwest of Western Australia.
 permalink: /about/
 ---
 
-Southwest Tech is a grassroots community meetup for technology enthusiasts living in and around Dunsborough, Busselton, and Margaret River.
+Southwest Tech is a new initiative — and right now, an experiment. We're trying to find out if there are enough people in the southwest who'd show up to something like this and want to keep it going.
 
-We meet every six weeks at a local pub or café — no slides required, no formal agenda, just good people talking about things they're building, breaking, or excited about.
+The first event is a simple test of interest. If people come along, enjoy it, and want more — we'll keep running them. The plan is every six weeks, but how often we meet will depend on how things go.
+
+There's no grand organisation behind this, no committee, no budget. Just someone who moved to the region, noticed the gap, and decided to see if others felt the same way.
+
+If you're interested, showing up is the best thing you can do.
 
 ## Who comes along
 
@@ -26,7 +30,7 @@ No professional credentials required. No gatekeeping. Just bring yourself.
 
 We keep it simple. Show up, grab a drink, find someone interesting to talk to. Sometimes people bring a laptop to show something off. Sometimes there's a loose topic floating around. Mostly it's just good conversation.
 
-Sessions run roughly 2–3 hours, every six weeks.
+Sessions run roughly 2–3 hours. Frequency will start at every six weeks and adjust based on interest.
 
 ## Why the southwest?
 
