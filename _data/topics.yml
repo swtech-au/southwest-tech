@@ -12,3 +12,9 @@
   color: green
 - name: Networking
   color: pink
+- name: Agricultural tech
+  color: green
+- name: RF & LoRa
+  color: teal
+- name: Cyber security
+  color: purple
