@@ -21,6 +21,3 @@ rules:
   - type: dont
     title: No gatekeeping
     description: This is not a test. Tech is for everyone — not just people who have been doing it the longest.
-  - type: dont
-    title: Cannot align to the rules?
-    description: If your behaviour is not consistent with this code of conduct, we will simply ask you to leave. We want this to be a place everyone feels comfortable in.

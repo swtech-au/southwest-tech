@@ -13,7 +13,7 @@ There's no grand organisation behind this, no committee, no budget. Just someone
 
 If you're interested, showing up is the best thing you can do.
 
-## Who comes along
+## Who can come along
 
 Anyone with a curiosity for technology. That includes:
 
