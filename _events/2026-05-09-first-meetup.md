@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Southwest Tech #1 — Kick-off"
-date: 2026-05-07
+date: 2026-05-09
 time: "2:00pm"
 location: TBA, Busselton
 excerpt: The first Southwest Tech meetup. Come along, introduce yourself, and meet the other tech enthusiasts living and working in the southwest.
