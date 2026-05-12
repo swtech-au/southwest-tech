@@ -1,0 +1,10 @@
+<div class="event-card">
+  <div class="event-card-date">
+    <span class="event-day">{{ include.post.date | date: "%-d" }}</span>
+    <span class="event-month">{{ include.post.date | date: "%b" }}</span>
+  </div>
+  <div class="event-card-body">
+    <h3><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h3>
+    {% if include.post.excerpt %}<p class="event-card-desc">{{ include.post.excerpt | strip_html | truncatewords: 30 }}</p>{% endif %}
+  </div>
+</div>
