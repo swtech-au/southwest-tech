@@ -50,9 +50,13 @@ title: Southwest Tech
       <h2 class="section-label">Latest</h2>
     </div>
     {% assign upcoming = site.events | sort: 'date' | where_exp: "e", "e.date >= site.time" | limit: 3 %}
+    {% assign past_events = site.events | sort: 'date' | reverse | where_exp: "e", "e.date < site.time" | limit: 1 %}
     {% assign recent_posts = site.posts | limit: 3 %}
-    {% if upcoming.size > 0 or recent_posts.size > 0 %}
+    {% if upcoming.size > 0 or past_events.size > 0 or recent_posts.size > 0 %}
       {% for event in upcoming %}
+        {% include event-card.html event=event %}
+      {% endfor %}
+      {% for event in past_events %}
         {% include event-card.html event=event %}
       {% endfor %}
       {% for post in recent_posts %}
