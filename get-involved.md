@@ -27,8 +27,10 @@ If you want to be more hands-on — helping with venues, communications, or just
 
 Drop us an email at [southwesttech.au@gmail.com](mailto:southwesttech.au@gmail.com) — whether you want to come along, get more involved, or just say hello.
 
-## A note on socials
+## Discord
 
-We're deliberately keeping things simple for now. No Twitter, no Facebook group, no Discord — we want getting involved to be as low-friction as possible, and we know plenty of people in the tech community would rather not need a social media account just to show up to a meetup.
+Between meetups, we hang out on the [Southwest Makers](https://www.swmakers.org/) Discord server. If you'd like to join, [drop us an email](mailto:southwesttech.au@gmail.com?subject=Discord%20invite) and we'll send you an invite.
 
-If socials ever start solving a real coordination problem, we'll add them. For now, email works fine.
+## Other local communities
+
+We're not the only ones down here. Check out the [other communities in the region]({{ '/about/#other-communities-down-here' | relative_url }}) too.

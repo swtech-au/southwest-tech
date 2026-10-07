@@ -44,6 +44,15 @@ There's a genuine gap. Perth has a solid tech community but there's nothing in b
 
 Southwest Tech exists to fill that gap.
 
+## Other communities down here
+
+Since starting up, we've found a few other groups doing great things in the region. We found each other organically, there's plenty of crossover, and we'd encourage you to check them out:
+
+- **[Southwest Devs](https://southwestdevs.com.au/)**: a community for software developers in the southwest.
+- **[Southwest Makers](https://www.swmakers.org/)**: the region's makers community, for anyone who likes building things.
+
+We do our best not to clash with each other's events, so you can get along to all of them :)
+
 ## Get involved
 
 Want to help shape what this becomes? [We'd love to hear from you.]({{ '/get-involved/' | relative_url }})
