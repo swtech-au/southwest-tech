@@ -9,7 +9,7 @@ Southwest Tech is brand new. We're at the very beginning — trying to understan
 
 ## Come to a meetup
 
-The simplest thing — just show up. Check the [events page](/events/) for the next one and RSVP so we know you're coming and can send you venue details.
+The simplest thing — just show up. Check the [events page]({{ '/events/' | relative_url }}) for the next one and RSVP so we know you're coming and can send you venue details.
 
 ## Suggest a venue
 

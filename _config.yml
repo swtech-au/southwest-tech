@@ -6,6 +6,11 @@ baseurl: "/southwest-tech"
 author:
   name: Southwest Tech
 
+# Lu.ma calendar (source of truth for upcoming events)
+luma:
+  calendar_id: cal-7G7WuLcTT12fcPi
+  calendar_url: https://luma.com/SouthwestTech
+
 # Build settings
 markdown: kramdown
 highlighter: rouge

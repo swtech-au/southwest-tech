@@ -15,23 +15,23 @@ Then open http://localhost:4000
 
 ## Adding an event
 
-Create a new file in `_events/` following this naming convention:
+Upcoming events live on the [Southwest Tech Lu.ma calendar](https://luma.com/SouthwestTech) — create them there and they appear on the Events page automatically via the embed (`_includes/luma-calendar.html`). The calendar ID is set under `luma:` in `_config.yml`.
+
+After a meetup, optionally add it to the archive in `_events/` so it shows under "Past events":
 
 ```
 _events/YYYY-MM-DD-event-name.md
 ```
 
-Use this front matter template:
-
 ```yaml
 ---
 layout: event
-title: "Southwest Tech #2 — Monthly meetup"
-date: 2026-06-18
-time: "6:00pm – 8:30pm"
+title: "Southwest Tech — October Meetup"
+date: 2026-10-03
+time: "2:00pm"
 location: Venue Name, Town
 excerpt: A one-line description for the events listing.
-rsvp_url: https://...
+rsvp_url: https://luma.com/...
 ---
 
 Event description goes here.
@@ -50,4 +50,4 @@ assets/         # CSS, JS, images
 
 ## Deployment
 
-Pushes to `main` automatically deploy via GitHub Actions to GitHub Pages.
+Pushes to `master` automatically deploy via GitHub Actions to GitHub Pages.

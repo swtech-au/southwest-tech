@@ -46,7 +46,7 @@ Southwest Tech exists to fill that gap.
 
 ## Get involved
 
-Want to help shape what this becomes? [We'd love to hear from you.](/get-involved/)
+Want to help shape what this becomes? [We'd love to hear from you.]({{ '/get-involved/' | relative_url }})
 
 ## Who is this guy?
 
