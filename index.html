@@ -50,14 +50,15 @@ title: Southwest Tech
       <h2 class="section-label">Latest</h2>
       <a href="{{ site.luma.calendar_url }}" class="text-link" target="_blank" rel="noopener">Subscribe on Lu.ma →</a>
     </div>
-    {% assign past_events = site.events | sort: 'date' | reverse | where_exp: "e", "e.date < site.time" | limit: 1 %}
-    {% assign recent_posts = site.posts | limit: 3 %}
-    {% if past_events.size > 0 or recent_posts.size > 0 %}
-      {% for event in past_events %}
-        {% include event-card.html event=event %}
-      {% endfor %}
-      {% for post in recent_posts %}
-        {% include post-card.html post=post %}
+    {% assign past_events = site.events | where_exp: "e", "e.date < site.time" %}
+    {% assign latest = site.posts | concat: past_events | sort: 'date' | reverse %}
+    {% if latest.size > 0 %}
+      {% for item in latest limit: 4 %}
+        {% if item.collection == "events" %}
+          {% include event-card.html event=item %}
+        {% else %}
+          {% include post-card.html post=item %}
+        {% endif %}
       {% endfor %}
     {% else %}
     <div class="no-events">
